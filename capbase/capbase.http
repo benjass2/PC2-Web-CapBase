@@ -1,0 +1,6 @@
+@capbase_HostAddress = http://localhost:5040
+
+GET {{capbase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
